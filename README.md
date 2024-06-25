@@ -1,5 +1,5 @@
  
-**Titanic Survival Prediction Project**
+# Titanic Survival Prediction Project
 
 Welcome to my Titanic survival prediction project repository! This project was completed as part of my internship at @CodeAlpha, @Encryptix @DEP 
 ### Project Overview:
